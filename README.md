@@ -87,3 +87,5 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+
+[![Deploy to GitHub Pages](https://github.com/GhoulURG/GhoulURGAssignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/GhoulURG/GhoulURGAssignment2/actions/workflows/deploy.yml)
