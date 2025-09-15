@@ -56,11 +56,11 @@ techflow-website/
 
 This project follows a professional Git workflow:
 
-1. Create a feature branch for your changes
-2. Make your modifications
-3. Test your changes locally
-4. Commit with descriptive messages
-5. Push to GitHub and create a pull request
+1. Create a feature branch for your changes!
+2. Make your modifications!
+3. Test your changes locally!
+4. Commit with descriptive messages!
+5. Push to GitHub and create a pull request!
 
 ## Deployment
 
